@@ -1,0 +1,18 @@
+<application>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JAVA.JavaLens" />
+        <option value="JAVA.annotation.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <settingsMapElement>
+      <JAVA.annotation.hints>
+        <Settings>
+          <option name="showExternal" value="false" />
+        </Settings>
+      </JAVA.annotation.hints>
+    </settingsMapElement>
+  </component>
+</application>
